@@ -32,6 +32,7 @@ L.geoJSON(countries, {
             case 'Bahamas': return {color: "#ff0000"};
             case 'Chile' : return {color: "#ff0000"};
             case 'Mexico' : return {color: "#ff0000"};
+            case 'Canada' : return {color: "#ff0000"};
             //Europe
             case 'Ireland': return {color: "#0000ff"};
             case 'Greece': return {color: "#0000ff"};
